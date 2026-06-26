@@ -1,4 +1,5 @@
 # Employee Management System
 
-This is a simple web-based Employee Management System project.
+This system includes login functionality for employees.
+
 It allows adding, viewing, and managing employee details.
