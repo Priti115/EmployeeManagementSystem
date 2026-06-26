@@ -1,4 +1,4 @@
+
 # Employee Management System
 
-Name : Pritidarshini Biswal 
-
+This project manages employee registration and dashboard features.
