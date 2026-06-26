@@ -1,4 +1,4 @@
-
 # Employee Management System
 
-This project manages employee registration and dashboard features.
+This is a simple web-based Employee Management System project.
+It allows adding, viewing, and managing employee details.
